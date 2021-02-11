@@ -1,5 +1,5 @@
 public class HomeWork {
-    void foo("1223") {
+    void too (){
         System.out.println("Hello");
     }
-}
+    }
